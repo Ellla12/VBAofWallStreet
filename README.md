@@ -8,6 +8,11 @@ The purpose of the analysis in the VBA Challenge is to refactor the code from th
 ## Results
 ### Stock Performance 2017 vs 2018
 ![Stock Performance 2017 vs 2018](https://github.com/Ellla12/VBAofWallStreet/blob/main/Resources/All%20Stocks%20Analysis.PNG)
+From the VBA Analysis, we can conclude that All Stocks performance during 2017 performed better than 2018. The Return in 2018 peformed poorly and provided a negative return.
+
+### Execution Time Comparison
+![Execution Time](https://github.com/Ellla12/VBAofWallStreet/blob/main/Resources/run_time.PNG)
+![Execution Time Refactored](https://github.com/Ellla12/VBAofWallStreet/blob/main/Resources/run_time_refactored.PNG)
 
 ## Summary
 ### Advantages and Disadvantages of Refactoring Code
