@@ -17,11 +17,15 @@ The original execution time for the VBA Challenge code was about 0.66 seconds fo
 
 ## Summary
 ### Advantages and Disadvantages of Refactoring Code
-The advantage of refactoring codes are:
-* Improves the Overall Design of the Software
-* Makes Software Easier to Understand
-* Helps with Debugging Code
-* Helps Efficiency of the Code
+The advantages of refactoring codes are:
+* Improves the overall design of the software
+* Makes the software easier to understand
+* Helps with debugging the code
+* Helps with overall efficiency of the code
+
+The disadvantages of refactoring codes are:
+* Large Risk Factor when Application is big
+* Sometimes the cost of refactoring is more expensive than rewriting the code
 
 ### How Advantages/Disadvantages applies to the VBA Challenge
-
+The VBA Challenge benefits from refactoring. As it is not a large application it does not take too much time or effort to refactor the code. Also, since the application isn't too complicated there is not a large risk of breaking the code. The initial execution time of the code was improved by about 80% with refactoring.
