@@ -13,8 +13,15 @@ From the VBA Analysis, we can conclude that All Stocks performance during 2017 p
 ### Execution Time Comparison
 ![Execution Time](https://github.com/Ellla12/VBAofWallStreet/blob/main/Resources/run_time.PNG)
 ![Execution Time Refactored](https://github.com/Ellla12/VBAofWallStreet/blob/main/Resources/run_time_refactored.PNG)
+The original execution time for the VBA Challenge code was about 0.66 seconds for both 2017 and 2018. After refactoring the code, the code now has an execution time of 0.109 seconds for both 2017 and 2018. By refactoring the code, we were able to increase the efficiency of the code by about 80 to 85%.
 
 ## Summary
 ### Advantages and Disadvantages of Refactoring Code
+The advantage of refactoring codes are:
+* Improves the Overall Design of the Software
+* Makes Software Easier to Understand
+* Helps with Debugging Code
+* Helps Efficiency of the Code
+
 ### How Advantages/Disadvantages applies to the VBA Challenge
 
