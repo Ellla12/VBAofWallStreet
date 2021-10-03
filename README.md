@@ -7,7 +7,7 @@ The purpose of the analysis in the VBA Challenge is to refactor the code from th
 
 ## Results
 ### Stock Performance 2017 vs 2018
-![](https://github.com/Ellla12/VBAofWallStreet/blob/main/Resources/All%20Stocks%20Analysis.PNG)
+![Stock Performance 2017 vs 2018](https://github.com/Ellla12/VBAofWallStreet/blob/main/Resources/All%20Stocks%20Analysis.PNG)
 
 ## Summary
 ### Advantages and Disadvantages of Refactoring Code
